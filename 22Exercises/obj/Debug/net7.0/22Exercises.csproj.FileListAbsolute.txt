@@ -1,0 +1,17 @@
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\22Exercises.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\22Exercises.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\22Exercises.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\22Exercises.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\22Exercises.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\bin\Debug\net7.0\22Exercises.exe
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\bin\Debug\net7.0\22Exercises.deps.json
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\bin\Debug\net7.0\22Exercises.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\bin\Debug\net7.0\22Exercises.dll
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\bin\Debug\net7.0\22Exercises.pdb
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\22Exercises.csproj.CopyComplete
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\22Exercises.dll
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\refint\22Exercises.dll
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\22Exercises.pdb
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\22Exercises.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Day18\22Exercises\obj\Debug\net7.0\ref\22Exercises.dll

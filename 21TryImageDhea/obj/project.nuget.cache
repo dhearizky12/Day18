@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IaDM8tnH6Tc3+TeonmPzCp4ktghkQOoddA9AdAUTSr5IlDYhOaUGtyQFVCTxnGAnwnccnPigGNBrleJ79qeibw==",
+  "success": true,
+  "projectFilePath": "d:\\Dhea_Bootcamp\\learn\\Day18\\21TryImageDhea\\21TryImageDhea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

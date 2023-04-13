@@ -1,0 +1,17 @@
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\21TryImageDhea.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\21TryImageDhea.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\21TryImageDhea.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\21TryImageDhea.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\21TryImageDhea.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\bin\Debug\net7.0\21TryImageDhea.exe
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\bin\Debug\net7.0\21TryImageDhea.deps.json
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\bin\Debug\net7.0\21TryImageDhea.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\bin\Debug\net7.0\21TryImageDhea.dll
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\bin\Debug\net7.0\21TryImageDhea.pdb
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\21TryImageDhea.csproj.CopyComplete
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\21TryImageDhea.dll
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\refint\21TryImageDhea.dll
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\21TryImageDhea.pdb
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\21TryImageDhea.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Day18\21TryImageDhea\obj\Debug\net7.0\ref\21TryImageDhea.dll
